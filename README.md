@@ -17,8 +17,8 @@ Este projeto tem como objetivo desenvolver uma plataforma educacional completa, 
 Clone este repositório:
 
 ```bash
-git clone https://github.com/seuusuario/U-Learn.git
-cd U-Learn
+git clone https://github.com/seuusuario/U-Learn-Projeto-A#.git
+cd U-Learn-Projeto-A3
 ```
 
 ## 📂 Backend (Node.js)
